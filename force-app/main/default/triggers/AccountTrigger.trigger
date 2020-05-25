@@ -6,5 +6,6 @@ trigger AccountTrigger on Account (before insert) {
   System.debug(newAccount.Name); 
   System.debug(newAccount.Id);
   System.debug(newAccount.Description);
+  System.debug(newAccount.Owner);
 
 }
