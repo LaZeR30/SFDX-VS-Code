@@ -1,0 +1,17 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "DreamhouseLWC",
+            "versionName": "Spring '20",
+            "versionNumber": "4.0.0.NEXT"
+        }
+    ],
+    "namespace": "",
+    "sourceApiVersion": "48.0",
+    "packageAliases": {
+        "DreamhouseLWC": "0HoB0000000GmidKAC",
+        "DreamhouseLWC@4.0.0-15": "04tB0000000KqVNIA0"
+    }
+}
